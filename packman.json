@@ -1,4 +1,7 @@
 {
   "name": "KvantGrass",
-  "export": "Assets"
+  "export": "Assets",
+  "dependencies": [
+	  "kennelbound-unity/KvantReaktion"
+  ]
 }
